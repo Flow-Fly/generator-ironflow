@@ -4,6 +4,7 @@
 	"description": "Modern express generator with dotenv reminders",
 	"main": "app.js",
 	"scripts": {
+		"test": "echo \"No test specified\"",
 		"generate": "yo ironflow"
 	},
 	"keywords": [
@@ -14,10 +15,10 @@
 	"files": [
 		"generators"
 	],
-	"homepage": "",
+	"homepage": "https://github.com/Flow-Fly/generator-ironflow",
 	"bugs": {
-		"url": "",
-		"email": ""
+		"url": "https://github.com/Flow-Fly/generator-ironflow/issues",
+		"email": "florian.aube@gmail.com"
 	},
 	"author": "Aube Florian",
 	"license": "MIT",
